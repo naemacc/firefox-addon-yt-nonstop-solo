@@ -1,4 +1,4 @@
-# YT & YTM Nonstop Solo
+# Nonstop for YouTube & YouTube Music
 
 A Firefox extension that keeps YouTube and YouTube Music playing in a background tab, and recovers YouTube Music when a track stalls.
 
