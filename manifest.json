@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "author": "Naem",
   "name": "Keep Playing for YouTube & YouTube Music",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Prevents/auto-confirms 'Are you still there?' popups on YouTube and YouTube Music. Auto-recovers from playback stalls on YouTube Music.",
   "browser_specific_settings": {
     "gecko": {
