@@ -47,9 +47,12 @@ The extension collects no data and makes no network requests of its own. It runs
 
 ## Development
 
+There is no build step. Only zipping.
+
 ```
 npx web-ext lint
 npx web-ext run
+npx web-ext build
 ```
 
 ## License
