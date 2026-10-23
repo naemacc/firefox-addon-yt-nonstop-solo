@@ -112,7 +112,7 @@ There is no build step.
 
 `test.js` is a console test for the popup handler. Paste it into the DevTools console on a `music.youtube.com` tab that was loaded after the extension. Test the stall watchdog by blocking a `videoplayback` request in the Network panel and skipping to the next track.
 
-Issues and pull requests are welcome.
+Issues and pull requests are welcome. Please ensure you fork the repository and submit all Pull Requests to the `dev` branch, as this project follows a `dev` -> `main` workflow.
 
 ## License
 
